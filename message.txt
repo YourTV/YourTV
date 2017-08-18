@@ -1,2 +1,18 @@
-# YourTV
-Watch 24H Free IPTV in HD E-mail Youriptv@outlook.com for the m3u URL!
+<rss version="2.0">
+ <channel>
+  <title>My RSS Feed</title>
+  
+  <item>
+   <title>Hello everyone!</title>
+  </item>
+  
+  <item>
+   <title>Updates are coming soon. Stay tuned!</title>
+  </item>
+  
+  <item>
+   <title>Enjoy your day.</title>
+  </item>
+  
+ </channel>
+</rss>
