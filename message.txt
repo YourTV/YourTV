@@ -1,17 +1,17 @@
 <rss version="2.0">
  <channel>
-  <title>My RSS Feed</title>
+  <title>YourTV</title>
   
   <item>
-   <title>Hello everyone!</title>
+   <title>Watch 24hr free IPTV</title>
   </item>
   
   <item>
-   <title>Updates are coming soon. Stay tuned!</title>
+   <title>E-mail Youriptv@outlook.com for a m3u link</title>
   </item>
   
   <item>
-   <title>Enjoy your day.</title>
+   <title>support? e-mail us</title>
   </item>
   
  </channel>
